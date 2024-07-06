@@ -1,0 +1,113 @@
+.banner {
+    background-color: aquamarine;
+
+    background-image: linear-gradient(rgba(255, 255, 255, 0) 0%, rgba(0, 0, 0, 0.553)), url("/images/donation13.jpg");
+    background-repeat: no-repeat;
+    text-align: center;
+    background-size: cover;
+
+
+}
+
+.banner-container {
+    padding: 176px 307px;
+    color: white;
+}
+
+.button-primary{
+    width: 160px;
+    height:56px ;
+    background-color: #FF5959;
+    border-radius: 5px;
+    color: white;
+    border: 0;
+    font-weight: bold;
+    font-size: 16px;
+    margin: 30px 0;
+}
+
+.donate-container{
+    
+    margin: 130px 0;
+    text-align: center;
+    padding: 0 336px;
+    color: gray;
+}
+
+.button-container{
+    margin: 30px 0;
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+    
+}
+
+
+.plan-desc{
+    padding: 0 375px;
+    text-align: center;
+}
+
+.plan-card{
+    display: flex;
+    padding:0 157px;
+    justify-content:space-around;
+    gap: 24px;
+    margin-bottom: 130px;
+}
+
+.card{
+    padding: 20px;
+    background-color: #ff595989;
+
+}
+
+.news-container{
+    padding: 0 156px;
+   
+}
+
+.news{
+    display: flex;
+    gap: 83px;
+    margin-bottom: 100px;
+}
+.news img{
+    width: 456px;
+}
+
+.updates{
+    padding: 0 375px;
+    text-align: center;
+}
+
+.subscribe{
+    background-color: #FFF4D6;
+    padding: 20px 0;
+    margin-bottom: 130px;
+    
+}
+
+.email-area{
+border: none;
+height: 40px;
+}
+
+.button-subscribe{
+    width: 110px;
+    height:40px ;
+    background-color: #FF5959;
+    border-radius: 5px;
+    color: white;
+    border: 0;
+    font-size: 16px;
+    margin: 30px 0;
+}
+
+footer{
+    padding: 20px 0;
+    text-align: center;
+    background-color: #0B0D17;
+    
+}
+
